@@ -1,0 +1,22 @@
+.container{
+    max-width: 300px;
+    margin: 0 auto;
+  
+    background-color: rgb(196, 146, 243);
+    padding: 30px;
+    border: 12px solid #220;
+    border-radius: 20px;
+
+}
+body{
+    background-image: linear-gradient( 90deg, rgb(218, 164, 164) , rgb(255, 255, 203));
+
+    font-family: arial;
+}
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
